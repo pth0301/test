@@ -1,0 +1,9 @@
+p {
+    color: rgba(255, 0, 0, 0.817) ;
+}
+p.text1 {
+    color: cyan;
+}
+a {
+    text-decoration: none;
+}
